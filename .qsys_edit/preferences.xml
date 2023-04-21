@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="159" />
+   <irq preferredWidth="34" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions/Bridges and Adaptors,Project,Library,Library/Basic Functions/Bridges and Adaptors/Memory Mapped,Library/Basic Functions,Library/Processors and Peripherals,Library/Processors and Peripherals/Peripherals" />
+ <window width="1936" height="1096" x="-8" y="-8" />
+ <generation block_symbol_file="1" greybox="0" />
+</preferences>
