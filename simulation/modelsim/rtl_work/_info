@@ -7,114 +7,259 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 dC:/AlteraPrj/DE10litePWM/simulation/modelsim
-vdebouncer
-Z1 !s110 1506202173
-!i10b 1
-!s100 3H^@26P9^=IVzl^5WozM81
-I8Ih6hKjL073AdGAOAOOhJ2
-Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z0 dD:/MSEE/5363/Week2/DE10LiteADC/simulation/modelsim
+Eadc_connect
+Z1 w1506867186
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-w1409286152
-8C:/AlteraPrj/DE10litePWM/source/debouncer.v
-FC:/AlteraPrj/DE10litePWM/source/debouncer.v
+Z4 8D:/MSEE/5363/Week2/DE10LiteADC/source/ADC_connect.vhd
+Z5 FD:/MSEE/5363/Week2/DE10LiteADC/source/ADC_connect.vhd
+l0
+L4
+V2z;S>LBPRm8O=PLI_60ho3
+!s100 `ZH:<HgI4<1^]30MQMSUk3
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1682322819
+!i10b 1
+Z8 !s108 1682322819.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5363/Week2/DE10LiteADC/source/ADC_connect.vhd|
+Z10 !s107 D:/MSEE/5363/Week2/DE10LiteADC/source/ADC_connect.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+DEx4 work 11 adc_connect 0 22 2z;S>LBPRm8O=PLI_60ho3
+l77
+L29
+Vai0V7c^FbY?:FY80lH?Ck1
+!s100 >?6LiY3^GUM4zREP;ZYhA0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eadc_led7
+Z13 w1682322276
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8D:/MSEE/5363/Week2/DE10LiteADC/source/adc_led7.vhd
+Z16 FD:/MSEE/5363/Week2/DE10LiteADC/source/adc_led7.vhd
+l0
+L5
+VJLzhoE:zHkWMXmACIA9[D0
+!s100 BG@WHHS:;WTMTlm_mHngL2
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5363/Week2/DE10LiteADC/source/adc_led7.vhd|
+Z18 !s107 D:/MSEE/5363/Week2/DE10LiteADC/source/adc_led7.vhd|
+!i113 1
+R11
+R12
+Aarch
+R14
+R2
+R3
+DEx4 work 8 adc_led7 0 22 JLzhoE:zHkWMXmACIA9[D0
+l37
+L20
+VckX;9m=XPGzd[ZnjkcGhj3
+!s100 X5KP<>jiL``6K1;E@TV>D2
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Eadc_sequencer
+Z19 w1506844054
+R14
+R2
+R3
+R0
+Z20 8D:/MSEE/5363/Week2/DE10LiteADC/source/adc_sequencer.vhd
+Z21 FD:/MSEE/5363/Week2/DE10LiteADC/source/adc_sequencer.vhd
+l0
+L9
+VZEJzmeDCo6o3h0E=1eRJ61
+!s100 QJjX>cjFk^]6CT[QGT3=I1
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|D:/MSEE/5363/Week2/DE10LiteADC/source/adc_sequencer.vhd|
+Z23 !s107 D:/MSEE/5363/Week2/DE10LiteADC/source/adc_sequencer.vhd|
+!i113 1
+R11
+R12
+Aarch
+R14
+R2
+R3
+DEx4 work 13 adc_sequencer 0 22 ZEJzmeDCo6o3h0E=1eRJ61
+l25
+L22
+VT^R6R`T59PjfMbCa]oHOf0
+!s100 :MI8aNDgo:QbVU5bcES1B3
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+vdebouncer
+Z24 !s110 1682322810
+!i10b 1
+!s100 WmWdAMUSE`>:OAid?:=GK3
+I7G5fLeAW3OE@E_Uj08T1b0
+Z25 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1506237856
+8D:/MSEE/5363/Week2/DE10LiteADC/source/debouncer.v
+FD:/MSEE/5363/Week2/DE10LiteADC/source/debouncer.v
 L0 1
-Z3 OV;L;10.5b;63
+Z26 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1506202173.000000
-!s107 C:/AlteraPrj/DE10litePWM/source/debouncer.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/DE10litePWM/source|C:/AlteraPrj/DE10litePWM/source/debouncer.v|
+Z27 !s108 1682322809.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/source/debouncer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/source|D:/MSEE/5363/Week2/DE10LiteADC/source/debouncer.v|
 !i113 1
-Z5 o-vlog01compat -work work
-Z6 !s92 -vlog01compat -work work +incdir+C:/AlteraPrj/DE10litePWM/source
-Z7 tCvgOpt 0
+Z28 o-vlog01compat -work work
+Z29 !s92 -vlog01compat -work work +incdir+D:/MSEE/5363/Week2/DE10LiteADC/source
+Z30 tCvgOpt 0
 vpwm_gen
-R1
+Z31 !s110 1682322809
 !i10b 1
 !s100 :EWHK?OS1fg=gGzU`dC5U0
-IGhH<zSa9Zc1_`eTOd2CIQ1
-R2
+IJW56MUUfOFIPEXCA9]6a:2
+R25
 R0
-w1506199187
-8C:/AlteraPrj/DE10litePWM/source/pwm_gen.v
-FC:/AlteraPrj/DE10litePWM/source/pwm_gen.v
+w1506145188
+8D:/MSEE/5363/Week2/DE10LiteADC/source/pwm_gen.v
+FD:/MSEE/5363/Week2/DE10LiteADC/source/pwm_gen.v
 L0 4
-R3
+R26
 r1
 !s85 0
 31
-R4
-!s107 C:/AlteraPrj/DE10litePWM/source/pwm_gen.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/DE10litePWM/source|C:/AlteraPrj/DE10litePWM/source/pwm_gen.v|
+R27
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/source/pwm_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/source|D:/MSEE/5363/Week2/DE10LiteADC/source/pwm_gen.v|
 !i113 1
-R5
-R6
-R7
-vpwm_led_top
-!s110 1506202600
-!i10b 1
-!s100 :2UcK:BCLJW<9`QC:<n[e0
-I]h57W7i2e]=FEzh5FS14U2
-R2
-R0
-w1506200856
-8C:/AlteraPrj/DE10litePWM/source/pwm_led_top.v
-FC:/AlteraPrj/DE10litePWM/source/pwm_led_top.v
-L0 20
-R3
-r1
-!s85 0
-31
-!s108 1506202600.000000
-!s107 C:/AlteraPrj/DE10litePWM/source/pwm_led_top.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/DE10litePWM/source|C:/AlteraPrj/DE10litePWM/source/pwm_led_top.v|
-!i113 1
-R5
-R6
-R7
+R28
+R29
+R30
 vpwm_pll
-R1
+R24
 !i10b 1
-!s100 ]5Zi]J9doR0B@LEAgJ3S=2
-Id^>8Y<`Q;YfJaLG48Qz5>3
-R2
+!s100 Rog<4Y[jdn_8P@`az7`XQ0
+INQP[WE@Cj8jffl_Y_80AN2
+R25
 R0
-w1505975766
-8C:/AlteraPrj/DE10litePWM/pwm_pll.v
-FC:/AlteraPrj/DE10litePWM/pwm_pll.v
-L0 40
-R3
+w1682051779
+8D:/MSEE/5363/Week2/DE10LiteADC/pwm_pll.v
+FD:/MSEE/5363/Week2/DE10LiteADC/pwm_pll.v
+L0 39
+R26
 r1
 !s85 0
 31
-R4
-!s107 C:/AlteraPrj/DE10litePWM/pwm_pll.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/DE10litePWM|C:/AlteraPrj/DE10litePWM/pwm_pll.v|
+Z32 !s108 1682322810.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/pwm_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC|D:/MSEE/5363/Week2/DE10LiteADC/pwm_pll.v|
 !i113 1
-R5
-!s92 -vlog01compat -work work +incdir+C:/AlteraPrj/DE10litePWM
-R7
+R28
+!s92 -vlog01compat -work work +incdir+D:/MSEE/5363/Week2/DE10LiteADC
+R30
 vpwm_pll_altpll
-R1
+R24
 !i10b 1
-!s100 5<:0]j9^2XVFaF3<zKVXN0
-I1]4A]^XEz59O9IcLLPI<?2
-R2
+!s100 =JA[hN7klM]_8:_6e;MVz2
+I5[`GM0h0dO@XL6XI;oNS=0
+R25
 R0
-w1506198344
-8C:/AlteraPrj/DE10litePWM/db/pwm_pll_altpll.v
-FC:/AlteraPrj/DE10litePWM/db/pwm_pll_altpll.v
-L0 30
-R3
+w1682055945
+8D:/MSEE/5363/Week2/DE10LiteADC/db/pwm_pll_altpll.v
+FD:/MSEE/5363/Week2/DE10LiteADC/db/pwm_pll_altpll.v
+L0 29
+R26
 r1
 !s85 0
 31
-R4
-!s107 C:/AlteraPrj/DE10litePWM/db/pwm_pll_altpll.v|
-!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/AlteraPrj/DE10litePWM/db|C:/AlteraPrj/DE10litePWM/db/pwm_pll_altpll.v|
+R32
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/db/pwm_pll_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/db|D:/MSEE/5363/Week2/DE10LiteADC/db/pwm_pll_altpll.v|
 !i113 1
-R5
-!s92 -vlog01compat -work work +incdir+C:/AlteraPrj/DE10litePWM/db
-R7
+R28
+!s92 -vlog01compat -work work +incdir+D:/MSEE/5363/Week2/DE10LiteADC/db
+R30
+vSEG7_LUT
+R31
+!i10b 1
+!s100 [OJC5I6A6AGhjj_XS6?S41
+I6Q^E>d;fh=o]zSYR@7>Rd2
+R25
+R0
+w1506842724
+8D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT.v
+FD:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT.v
+L0 1
+R26
+r1
+!s85 0
+31
+R27
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/source|D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT.v|
+!i113 1
+R28
+R29
+R30
+n@s@e@g7_@l@u@t
+vSEG7_LUT_6
+R31
+!i10b 1
+!s100 e4ISXmIFHM`VAYKU^SX@Y2
+IfY<j;jDmQ6?`0FhHUzYW53
+R25
+R0
+w1506842702
+8D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT_6.v
+FD:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT_6.v
+L0 1
+R26
+r1
+!s85 0
+31
+R27
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT_6.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/source|D:/MSEE/5363/Week2/DE10LiteADC/source/SEG7_LUT_6.v|
+!i113 1
+R28
+R29
+R30
+n@s@e@g7_@l@u@t_6

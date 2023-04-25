@@ -19,6 +19,9 @@ end adc_led7;
 
 architecture arch of adc_led7 is
 
+
+
+
 	-- Input registers
 	signal reg_avl_str_sink_valid				: std_logic;
 	signal reg_avl_str_sink_channel			: std_logic_vector(avl_str_sink_channel'range);
@@ -29,12 +32,15 @@ architecture arch of adc_led7 is
 	signal received_sample	: std_logic_vector(11 downto 0);
 
 	
+--	signal d2, d1, d0 : integer;
 	
 begin
 
 	process(clk)
-
+	variable res : integer;
+	variable d0, d1, d2, d3 : integer;
 	begin
+		
 		if rising_edge(clk) then
 			-- Load the input registers
 			reg_avl_str_sink_valid				<= avl_str_sink_valid;
@@ -55,6 +61,17 @@ begin
      --   Hex display would be 0 or 1 or 2 for MSDigit, 
      --   a decimal point, and then 4 digits for fraction. 		                      
 		end if;
+		
+	res := to_integer(unsigned(received_sample));
+	d0 := res mod 10;
+	res := res / 10;
+	d1 := res mod 10;
+	res := res / 10;
+	d2 := res mod 10;
+	res := res / 10;
+	d3 := res mod 10;
+	led7 <= "0000" & std_logic_vector(to_unsigned(d3, 4)) & "0000" & std_logic_vector(to_unsigned(d2, 4)) & std_logic_vector(to_unsigned(d1, 4)) & std_logic_vector(to_unsigned(d0, 4));
+--	HEX4 <= "00000000";
 	end process;
-		 led7 <= "0000" & "0000" & "0000" & received_sample;
 end;
+

@@ -1,0 +1,1980 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5363/Week2/DE10LiteADC/simulation/modelsim
+vADC
+Z1 !s110 1682322810
+!i10b 1
+!s100 D8bE8:XX?m0iA6T18G`E23
+IZBULd:TXe8bmBn3aafNkh1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1682059442
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/ADC.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/ADC.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1682322810.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/ADC.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/ADC.v|
+!i113 1
+Z5 o-vlog01compat -work ADC
+!s92 -vlog01compat -work ADC +incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis
+Z6 tCvgOpt 0
+n@a@d@c
+vADC_altpll_0
+Z7 !s110 1682322814
+!i10b 1
+!s100 XkYaOM2KFlBh_U_Ge456j3
+IGH1GB[O^1k8VF`P[3D?4j0
+R2
+R0
+Z8 w1682059443
+Z9 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_altpll_0.v
+Z10 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_altpll_0.v
+L0 213
+R3
+r1
+!s85 0
+31
+Z11 !s108 1682322814.000000
+Z12 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_altpll_0.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_altpll_0.v|
+!i113 1
+R5
+Z14 !s92 -vlog01compat -work ADC +incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules
+R6
+n@a@d@c_altpll_0
+vADC_altpll_0_altpll_gr22
+R7
+!i10b 1
+!s100 37@_AjkbaOfeElJgb=L7H0
+IGCDJj^3^4m:3fo:1LW`Lm3
+R2
+R0
+R8
+R9
+R10
+L0 130
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+R14
+R6
+n@a@d@c_altpll_0_altpll_gr22
+vADC_altpll_0_dffpipe_l2c
+R7
+!i10b 1
+!s100 dXod[b0WH_ThGfg@ok<cX0
+I^U>AZcXVP86PbU1C32Pb[1
+R2
+R0
+R8
+R9
+R10
+Z15 L0 37
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+R14
+R6
+n@a@d@c_altpll_0_dffpipe_l2c
+vADC_altpll_0_stdsync_sv6
+R7
+!i10b 1
+!s100 om[LZUbdG6zV`oXNC^g3]0
+IfeO[z97h>K_g[DW@AeAU<1
+R2
+R0
+R8
+R9
+R10
+L0 98
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+R14
+R6
+n@a@d@c_altpll_0_stdsync_sv6
+vADC_master_0
+Z16 !s110 1682322813
+!i10b 1
+!s100 9kB>6;LT6[>?dbZBXF?4e0
+Io;>?dW^bf;DzG5RLK409;0
+R2
+R0
+Z17 w1682059444
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z18 !s108 1682322813.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_master_0
+vADC_master_0_b2p_adapter
+Z19 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z20 !s110 1682322818
+!i10b 1
+!s100 ]Wbaa^nY5NU3e6G6CE1@A0
+I>O;:?2_Q3WeRelMoULFim2
+R2
+!s105 ADC_master_0_b2p_adapter_sv_unit
+S1
+R0
+Z21 w1682059448
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_b2p_adapter.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_b2p_adapter.sv
+Z22 L0 55
+R3
+r1
+!s85 0
+31
+Z23 !s108 1682322818.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_b2p_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_b2p_adapter.sv|
+!i113 1
+Z24 o-sv -work ADC
+Z25 !s92 -sv -work ADC +incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules
+R6
+n@a@d@c_master_0_b2p_adapter
+vADC_master_0_p2b_adapter
+R19
+R20
+!i10b 1
+!s100 omZ02UFaAZG=N6EO:=0XA0
+I7OJRX<NCYiHzM5n0Gc0CJ1
+R2
+!s105 ADC_master_0_p2b_adapter_sv_unit
+S1
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_p2b_adapter.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_p2b_adapter.sv
+R22
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_p2b_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_p2b_adapter.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_master_0_p2b_adapter
+vADC_master_0_timing_adt
+R19
+R20
+!i10b 1
+!s100 kmQP7eJXI15<9eNeHKoBG1
+I?@cJg>mb3li]F<8BWj`L33
+R2
+!s105 ADC_master_0_timing_adt_sv_unit
+S1
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_timing_adt.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_timing_adt.sv
+Z26 L0 60
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_timing_adt.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_master_0_timing_adt.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_master_0_timing_adt
+vADC_mm_interconnect_0
+Z27 !s110 1682322811
+!i10b 1
+!s100 KbzKk=V^<D:4P<UVJiO571
+I0AH=;aazSDRFdhVbfbdoM1
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z28 !s108 1682322811.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_mm_interconnect_0
+vADC_mm_interconnect_0_avalon_st_adapter
+R27
+!i10b 1
+!s100 YQeDz3n5]ZEFPml0ekkY?0
+I@E6QBkbK]jb?:;N2YBA;83
+R2
+R0
+Z29 w1682059450
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_mm_interconnect_0_avalon_st_adapter
+vADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R19
+Z30 !s110 1682322815
+!i10b 1
+!s100 oN=lT^[fi1IEE5SURXz?<3
+I7AhNQ3B^?Lz;H?e_93MEc0
+R2
+!s105 ADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+L0 66
+R3
+r1
+!s85 0
+31
+Z31 !s108 1682322815.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+vADC_mm_interconnect_0_cmd_demux
+R19
+Z32 !s110 1682322816
+!i10b 1
+!s100 En@eGP3o0iD[DJ[E?]46c1
+Ih2N=XUeZSbC6Q@3H<2n^43
+R2
+!s105 ADC_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+Z33 w1682059449
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_demux.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_demux.sv
+Z34 L0 43
+R3
+r1
+!s85 0
+31
+Z35 !s108 1682322816.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_cmd_demux
+vADC_mm_interconnect_0_cmd_mux
+R19
+R30
+!i10b 1
+!s100 [7iVea^^<g1ALlJ>dhA`J0
+I39=I1=5GWzlX2kogaKYbJ0
+R2
+!s105 ADC_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_mux.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_mux.sv
+Z36 L0 51
+R3
+r1
+!s85 0
+31
+R31
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_cmd_mux
+vADC_mm_interconnect_0_router
+R19
+R32
+!i10b 1
+!s100 6`H:<O9=H:oR>jbDE@H^N2
+I^L6Vk^2UnKH4b5<UXJl<g2
+R2
+Z37 !s105 ADC_mm_interconnect_0_router_sv_unit
+S1
+R0
+R33
+Z38 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router.sv
+Z39 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router.sv
+Z40 L0 84
+R3
+r1
+!s85 0
+31
+R35
+Z41 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router.sv|
+Z42 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router
+vADC_mm_interconnect_0_router_001
+R19
+R32
+!i10b 1
+!s100 [n>c13MDlAkbA3>HT=2b:1
+IZ23lfGAPk9Emi2lhW<GO62
+R2
+Z43 !s105 ADC_mm_interconnect_0_router_001_sv_unit
+S1
+R0
+R33
+Z44 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_001.sv
+Z45 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_001.sv
+R40
+R3
+r1
+!s85 0
+31
+R35
+Z46 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_001.sv|
+Z47 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_001.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router_001
+vADC_mm_interconnect_0_router_001_default_decode
+R19
+R32
+!i10b 1
+!s100 G62JMKKHCCgl?Dd;MTI_H0
+I3aMbHVoRac^KY6VDXEfZX2
+R2
+R43
+S1
+R0
+R33
+R44
+R45
+Z48 L0 45
+R3
+r1
+!s85 0
+31
+R35
+R46
+R47
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router_001_default_decode
+vADC_mm_interconnect_0_router_002
+R19
+R32
+!i10b 1
+!s100 ;]?aNPQP]7J8FkHT[5bi;1
+I>^8A^;=9eW4b?:cFmkYN[2
+R2
+Z49 !s105 ADC_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R33
+Z50 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_002.sv
+Z51 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_002.sv
+R40
+R3
+r1
+!s85 0
+31
+R35
+Z52 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_002.sv|
+Z53 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_router_002.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router_002
+vADC_mm_interconnect_0_router_002_default_decode
+R19
+R32
+!i10b 1
+!s100 4a^Nzkc;Jn7T9d<3AUYPk0
+Ih8=c:0_63?[0VBO@VTZUi3
+R2
+R49
+S1
+R0
+R33
+R50
+R51
+R48
+R3
+r1
+!s85 0
+31
+R35
+R52
+R53
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router_002_default_decode
+vADC_mm_interconnect_0_router_default_decode
+R19
+R32
+!i10b 1
+!s100 L96BC:@0_:T7m]<j:IGjI3
+IamP1<z68?Tbmce:Y;3?>`1
+R2
+R37
+S1
+R0
+R33
+R38
+R39
+R48
+R3
+r1
+!s85 0
+31
+R35
+R41
+R42
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_router_default_decode
+vADC_mm_interconnect_0_rsp_demux
+R19
+R30
+!i10b 1
+!s100 SX:e=hgfbGFmLmcLhS41M0
+I[[NCI6YK@RTQ88cXGTebF2
+R2
+!s105 ADC_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_demux.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_demux.sv
+R34
+R3
+r1
+!s85 0
+31
+R31
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_rsp_demux
+vADC_mm_interconnect_0_rsp_mux
+R19
+R30
+!i10b 1
+!s100 klNg2[c?okn>6dWi52G9i0
+I8iVNIz;Jk?CiTMYi<ZQ_71
+R2
+!s105 ADC_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_mux.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_mux.sv
+R36
+R3
+r1
+!s85 0
+31
+R31
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_mm_interconnect_0_rsp_mux
+vADC_modular_adc_0
+R27
+!i10b 1
+!s100 zH9[eknZoKCc^X4ifIO9P2
+IzXMKlc0S;W@b^h<J5W^S[1
+R2
+R0
+w1682059446
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0.v
+L0 9
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_modular_adc_0
+vADC_modular_adc_0_adc_monitor_internal
+Z54 !s110 1682322812
+!i10b 1
+!s100 jhGm^zcXe1Eh]QL:Lg:jc3
+IJ:Z_=JL@b_o>1=EB^CL_>3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_adc_monitor_internal.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_adc_monitor_internal.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z55 !s108 1682322812.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_adc_monitor_internal.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_adc_monitor_internal.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_modular_adc_0_adc_monitor_internal
+vADC_modular_adc_0_avalon_st_adapter
+R27
+!i10b 1
+!s100 n=G0E1oH0I20n_<gN8T3j2
+ILz61CcaoKkU>VXfM@<9d^0
+R2
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter.v
+L0 9
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter
+vADC_modular_adc_0_avalon_st_adapter_001
+R27
+!i10b 1
+!s100 YcN6z@QeDlm6H?LI<81A81
+IN7VEkRD`zOPS7Dz`FH^cd0
+R2
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001.v
+L0 9
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001.v|
+!i113 1
+R5
+R14
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_001
+vADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0
+R19
+Z56 !s110 1682322817
+!i10b 1
+!s100 H_S:28GEVnM40ITihkUc63
+I1ibW<TBLz<SC60_[BYfUL0
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0.sv
+Z57 L0 65
+R3
+r1
+!s85 0
+31
+Z58 !s108 1682322817.000000
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_001_data_format_adapter_0
+vADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0
+R19
+R56
+!i10b 1
+!s100 fn1TJaCe?==7BPfF?00l80
+ITMcQ?gahmISP9FBSg01`>2
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0.sv
+R26
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_0.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_001_timing_adapter_0
+vADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1
+R19
+R56
+!i10b 1
+!s100 ^66C@ma6EeTcLG1_V:K1Y0
+Iz5?gU`9`]=HgR6VaG<M`e2
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1.sv
+R26
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_001_timing_adapter_1.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_001_timing_adapter_1
+vADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0
+R19
+R20
+!i10b 1
+!s100 NjXYY_hU92=dP=hD`6Bh50
+IibeIG`_4fLi^[J:FJ5AO62
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0.sv
+R57
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_data_format_adapter_0.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_data_format_adapter_0
+vADC_modular_adc_0_avalon_st_adapter_timing_adapter_0
+R19
+R56
+!i10b 1
+!s100 K[2ZlMK6WebQ_Ln_6Y5:W3
+IHR7?k?<kWEHbnWFnolD7F2
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_timing_adapter_0_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_0.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_0.sv
+R26
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_0.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_timing_adapter_0
+vADC_modular_adc_0_avalon_st_adapter_timing_adapter_1
+R19
+R56
+!i10b 1
+!s100 j6PF@@mz[GYFSIkcSePjL1
+Ic<k]^[zh[`Qh2a``bU_[10
+R2
+!s105 ADC_modular_adc_0_avalon_st_adapter_timing_adapter_1_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_1.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_1.sv
+R26
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_1.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/ADC_modular_adc_0_avalon_st_adapter_timing_adapter_1.sv|
+!i113 1
+R24
+R25
+R6
+n@a@d@c_modular_adc_0_avalon_st_adapter_timing_adapter_1
+valtera_avalon_mm_bridge
+R16
+!i10b 1
+!s100 `eCPo@iPkKz1CWZaUGYD=3
+I7?=6I=ZUY75=SNa[BjYa=2
+R2
+R0
+R17
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_mm_bridge.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_mm_bridge.v
+Z59 L0 25
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_mm_bridge.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_mm_bridge.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_packets_to_master
+R16
+!i10b 1
+!s100 lb8?6UKeHL0fO:A`Bb0Il1
+ILKd11I05gDVV0bg4e6BzS1
+R2
+R0
+R21
+Z60 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_packets_to_master.v
+Z61 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_packets_to_master.v
+Z62 L0 22
+R3
+r1
+!s85 0
+31
+R18
+Z63 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_packets_to_master.v|
+Z64 !s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_packets_to_master.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_sc_fifo
+R27
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+Ii3g76935gG:;N@67zK0=F0
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_sc_fifo.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_sc_fifo.v
+Z65 L0 21
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_bytes_to_packets
+R16
+!i10b 1
+!s100 ;<iYFY8LSk5SY9lfnK0]32
+IA6bTNS:[gmnS>l^nK9Bd30
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_bytes_to_packets.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_bytes_to_packets.v
+Z66 L0 19
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_bytes_to_packets.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_bytes_to_packets.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_clock_crosser
+R7
+!i10b 1
+!s100 YbU`iK^TYJ_9Hz`CZekjQ3
+II=e7nnXD:zzBiGWYO:z^m0
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_clock_crosser.v
+R62
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_idle_inserter
+R7
+!i10b 1
+!s100 S71b16BnCfDWcoZ^EEZTn1
+IA3W>zQM6cG<<GC8_bPdX03
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_inserter.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_inserter.v
+R66
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_inserter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_inserter.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_idle_remover
+R7
+!i10b 1
+!s100 MZJlUT2CY>hnV]FQIb=S]1
+IV64e6gU>9;FYi:iiWaACQ0
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_remover.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_remover.v
+R66
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_remover.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_idle_remover.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_jtag_interface
+R16
+!i10b 1
+!s100 N7o^ddA[oe3RDKPC5>UZG1
+IAAYoKQmeO9E651TSeNDON3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_jtag_interface.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_jtag_interface.v
+L0 20
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_jtag_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_jtag_interface.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_packets_to_bytes
+R16
+!i10b 1
+!s100 OaagHT1fhIanF4eRR]VLL0
+I]2FJP3knHgG0lPboLHU^R2
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_packets_to_bytes.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_packets_to_bytes.v
+R66
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_packets_to_bytes.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_packets_to_bytes.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_pipeline_base
+R7
+!i10b 1
+!s100 SP[<U8JVkW?]RHOS`DzPF1
+IX4SMP3ckP5zoN]b0VhQkz3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_pipeline_base.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_pipeline_base.v
+R62
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_pipeline_base.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_pipeline_base.v|
+!i113 1
+R5
+R14
+R6
+valtera_avalon_st_splitter
+R19
+R20
+!i10b 1
+!s100 UeTj:cfW7:e@GT8b8^`XF2
+IcR91kazaS:l014<Fio1R@2
+R2
+!s105 altera_avalon_st_splitter_sv_unit
+S1
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_splitter.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_splitter.sv
+R62
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_splitter.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_avalon_st_splitter.sv|
+!i113 1
+R24
+R25
+R6
+valtera_jtag_control_signal_crosser
+R16
+!i10b 1
+!s100 `=i;H1E7lBV>R_3e4D5452
+ICDNb;lF8UXHIP^QTknczh0
+R2
+R0
+R21
+Z67 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_dc_streaming.v
+Z68 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_dc_streaming.v
+L0 30
+R3
+r1
+!s85 0
+31
+R18
+Z69 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_dc_streaming.v|
+Z70 !s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_dc_streaming.v|
+!i113 1
+R5
+R14
+R6
+valtera_jtag_dc_streaming
+R7
+!i10b 1
+!s100 EWdjgenNzZZ[1:h1cb56?0
+IYzGC>fXnWhYjT9A_an]WJ2
+R2
+R0
+R21
+R67
+R68
+L0 135
+R3
+r1
+!s85 0
+31
+R18
+R69
+R70
+!i113 1
+R5
+R14
+R6
+valtera_jtag_sld_node
+R7
+!i10b 1
+!s100 3n0e<ZJ7D0L][I>bEF?Oi2
+ID@gY21766QM^<3m0Z`k1?2
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_sld_node.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_sld_node.v
+L0 17
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_sld_node.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_sld_node.v|
+!i113 1
+R5
+R14
+R6
+valtera_jtag_src_crosser
+R7
+!i10b 1
+!s100 4?GOPZ8SJm>`nd35FBFXc3
+IEP9iVL09U>DnC<7bTNSOf0
+R2
+R0
+R21
+R67
+R68
+L0 72
+R3
+r1
+!s85 0
+31
+R18
+R69
+R70
+!i113 1
+R5
+R14
+R6
+valtera_jtag_streaming
+R7
+!i10b 1
+!s100 ge70D<WS<=FgooM5G8W@b0
+I=d4JXNNe6cWaz_Gj:RT2f3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_streaming.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_streaming.v
+Z71 L0 18
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_streaming.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_jtag_streaming.v|
+!i113 1
+R5
+R14
+R6
+valtera_merlin_arb_adder
+R19
+R30
+!i10b 1
+!s100 1Jn[a;@5nZmTN?DFKQNzj2
+IA]<PA65z7zk50Bo73e0?Z1
+R2
+Z72 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+R33
+Z73 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_arbitrator.sv
+Z74 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R3
+r1
+!s85 0
+31
+R31
+Z75 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z76 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_arbitrator
+R19
+R30
+!i10b 1
+!s100 NQTehjm2fNQROUMUzShGa1
+IIhOKJ@l1hd^C>;`Wk?4[K2
+R2
+R72
+S1
+R0
+R33
+R73
+R74
+L0 103
+R3
+r1
+!s85 0
+31
+R31
+R75
+R76
+!i113 1
+R24
+R25
+R6
+valtera_merlin_burst_uncompressor
+R19
+R30
+!i10b 1
+!s100 f1?Rb<=9U?R9LJoHl;7>T3
+I7=RcLI5P<LFk?hV4bM72G0
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R3
+r1
+!s85 0
+31
+R31
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_master_agent
+R19
+R32
+!i10b 1
+!s100 _CJm:YX=>U2LQKH;8=@cb0
+Ig:Wm^18CZbYl4b[h4D]K;2
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_agent.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R3
+r1
+!s85 0
+31
+R35
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_master_translator
+R19
+R56
+!i10b 1
+!s100 NdRk@]3fC2C@V7Rm;dQM31
+I:Xz:5[>4Kz]AH1X>@1;o21
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_translator.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_translator.sv
+Z77 L0 32
+R3
+r1
+!s85 0
+31
+R58
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_slave_agent
+R19
+R32
+!i10b 1
+!s100 ePZN1d?B062J`OBb?blff3
+IiJQXK10OYa<OT3i3008iK0
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_agent.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R3
+r1
+!s85 0
+31
+R35
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_slave_translator
+R19
+R32
+!i10b 1
+!s100 k`9[YAn_dLTkg;GE`mOb61
+IQ2Zd`0P1Nfgo2D^YbZ5Ea2
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_translator.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R3
+r1
+!s85 0
+31
+R35
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R24
+R25
+R6
+valtera_merlin_width_adapter
+R19
+R30
+!i10b 1
+!s100 QzdA5DP6CReOTH<9QzODa3
+InSWa5`E9dj[?z0RmYcBhG0
+R2
+!s105 altera_merlin_width_adapter_sv_unit
+S1
+R0
+R33
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_width_adapter.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_width_adapter.sv
+R59
+R3
+r1
+!s85 0
+31
+R31
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_width_adapter.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_merlin_width_adapter.sv|
+!i113 1
+R24
+R25
+R6
+valtera_modular_adc_control
+R54
+!i10b 1
+!s100 @NIJo_PKeT6JIV[6EeaBJ0
+I=>^n^:imTWl4S:_h70Kl10
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control.v
+R71
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control.v|
+!i113 1
+R5
+R14
+R6
+valtera_modular_adc_control_avrg_fifo
+R54
+!i10b 1
+!s100 A`h0K=1=Qn1TZ5S9FK@JT0
+IWmEeE_>Nh>kfhWZ>RlkAU3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v
+L0 53
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_avrg_fifo.v|
+!i113 1
+R5
+R14
+R6
+valtera_modular_adc_control_fsm
+R54
+!i10b 1
+!s100 =f5aK9S48]mkSV:d>^R1A2
+IPEZ4FZMnmSXhWJ9PaIcfa0
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_fsm.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_fsm.v
+R71
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_control_fsm.v|
+!i113 1
+R5
+R14
+R6
+valtera_modular_adc_sequencer
+R27
+!i10b 1
+!s100 hW9S5DAkfd91U=c`MPjnz1
+Ij08IQ>C7HH7Ei8D[;lSJL3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer.v
+R71
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer.v|
+!i113 1
+R5
+R14
+R6
+valtera_modular_adc_sequencer_csr
+R54
+!i10b 1
+!s100 X?8_4Q>7d3TH;da1Q1ee>0
+IE;YJ6k3`dc2_aj?jBCgZh0
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_csr.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_csr.v
+R71
+R3
+r1
+!s85 0
+31
+R28
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_csr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_csr.v|
+!i113 1
+R5
+R14
+R6
+valtera_modular_adc_sequencer_ctrl
+R54
+!i10b 1
+!s100 RmTEAhSh1Bj39ClM8Nkj10
+I=HBAJ]zojO54[Y`E;]z691
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_ctrl.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_ctrl.v
+R71
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_modular_adc_sequencer_ctrl.v|
+!i113 1
+R5
+R14
+R6
+valtera_reset_controller
+R1
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+IC=UzjXfY2AY6EKDV>b1do2
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_controller.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_controller.v
+L0 42
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R5
+R14
+R6
+valtera_reset_synchronizer
+R1
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I`4Dm8UNnEa>1hk1h3W=3A3
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_synchronizer.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_synchronizer.v
+L0 24
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R5
+R14
+R6
+valtera_std_synchronizer_nocut
+R7
+!i10b 1
+!s100 b8zV2<79GgkNg0GC<P[GJ2
+IPjni2a]z5:0kNXJ9edPh40
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_std_synchronizer_nocut.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_std_synchronizer_nocut.v
+L0 44
+R3
+r1
+!s85 0
+31
+R11
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_std_synchronizer_nocut.v|
+!i113 1
+R5
+R14
+R6
+valtera_trace_adc_monitor_capture_interface
+R19
+R20
+!i10b 1
+!s100 e[nllPXl@eZbzG_7>;a8D1
+I2kfDI]710bf2[o[dh991n0
+R2
+Z78 !s105 altera_trace_adc_monitor_core_sv_unit
+S1
+R0
+R29
+Z79 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_core.sv
+Z80 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_core.sv
+L0 180
+R3
+r1
+!s85 0
+31
+R23
+Z81 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_core.sv|
+Z82 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_core.sv|
+!i113 1
+R24
+R25
+R6
+valtera_trace_adc_monitor_core
+R19
+R20
+!i10b 1
+!s100 ^_n9PJY5h;gRej_CVfPZI2
+IcBjFoGWV1J04f>2]^V5=k2
+R2
+R78
+S1
+R0
+R29
+R79
+R80
+L0 648
+R3
+r1
+!s85 0
+31
+R23
+R81
+R82
+!i113 1
+R24
+R25
+R6
+valtera_trace_adc_monitor_issp
+R19
+R20
+!i10b 1
+!s100 :S41noSCi9=S8]8`98anf3
+Iz1g?2^S_TU^bmV^UBe`fh1
+R2
+R78
+S1
+R0
+R29
+R79
+R80
+L0 78
+R3
+r1
+!s85 0
+31
+R23
+R81
+R82
+!i113 1
+R24
+R25
+R6
+valtera_trace_adc_monitor_timestamp_manager
+R19
+R20
+!i10b 1
+!s100 d0P<7>=RJ[bW3@Z;SZP;`3
+IFX@j=IalS[kcZDX1U42KB1
+R2
+R78
+S1
+R0
+R29
+R79
+R80
+R65
+R3
+r1
+!s85 0
+31
+R23
+R81
+R82
+!i113 1
+R24
+R25
+R6
+valtera_trace_adc_monitor_wa
+R19
+R20
+!i10b 1
+!s100 WIXROn<DKD[4EE?A:b0F;2
+I90>;l^UI5L4zo9nF=Y[HX1
+R2
+!s105 altera_trace_adc_monitor_wa_sv_unit
+S1
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa.sv
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa.sv
+R66
+R3
+r1
+!s85 0
+31
+R23
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa.sv|
+!s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa.sv|
+!i113 1
+R24
+R25
+R6
+valtera_trace_adc_monitor_wa_inst
+R54
+!i10b 1
+!s100 MZl14_aD<50l@CeleJV<[2
+I?zhLL9^[=k@m@G5:1HfN;3
+R2
+R0
+R29
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa_inst.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa_inst.v
+L0 6
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa_inst.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_adc_monitor_wa_inst.v|
+!i113 1
+R5
+R14
+R6
+valtera_trace_monitor_endpoint
+R19
+Z83 DXx4 work 38 altera_trace_monitor_endpoint_wpackage 0 22 mj=OF0]9hoT48lUU<dgGL1
+R20
+!i10b 1
+!s100 18X<0Lm`i?G18ijYKof>;0
+I`]RlBgdelde7enDAJI?QJ2
+R2
+Z84 !s105 altera_trace_monitor_endpoint_wrapper_sv_unit
+S1
+R0
+R29
+Z85 8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_monitor_endpoint_wrapper.sv
+Z86 FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_monitor_endpoint_wrapper.sv
+L0 86
+R3
+r1
+!s85 0
+31
+R23
+Z87 !s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_monitor_endpoint_wrapper.sv|
+Z88 !s90 -reportprogress|300|-sv|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/altera_trace_monitor_endpoint_wrapper.sv|
+!i113 1
+R24
+R25
+R6
+Xaltera_trace_monitor_endpoint_wpackage
+R19
+R20
+!i10b 1
+!s100 @JkILfS]K^UE;n<jc1nHR2
+Imj=OF0]9hoT48lUU<dgGL1
+Vmj=OF0]9hoT48lUU<dgGL1
+S1
+R0
+R29
+R85
+R86
+R71
+R3
+r1
+!s85 0
+31
+R23
+R87
+R88
+!i113 1
+R24
+R25
+R6
+valtera_trace_monitor_endpoint_wrapper
+R19
+R83
+R20
+!i10b 1
+!s100 XDJJ716DYICSNmHI5HgjQ2
+IUnf3PzBE@cU087@Ne36g>3
+R2
+R84
+S1
+R0
+R29
+R85
+R86
+L0 29
+R3
+r1
+!s85 0
+31
+R23
+R87
+R88
+!i113 1
+R24
+R25
+R6
+vchsel_code_converter_sw_to_hw
+R54
+!i10b 1
+!s100 =WSfhd;Qi:YEOK:Ef_E3d3
+I46]W47dUo8W2WK^nc6_I^2
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/chsel_code_converter_sw_to_hw.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/chsel_code_converter_sw_to_hw.v
+R77
+R3
+r1
+!s85 0
+31
+R55
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/chsel_code_converter_sw_to_hw.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/chsel_code_converter_sw_to_hw.v|
+!i113 1
+R5
+R14
+R6
+vfifo_buffer
+R16
+!i10b 1
+!s100 DMV9zRnPjWDbzTRVo^2TT0
+IQ4mJlAV7NlR<2NJ;N@dIf2
+R2
+R0
+R21
+R60
+R61
+L0 627
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
+vfifo_buffer_scfifo_with_controls
+R16
+!i10b 1
+!s100 zmOh<:bil5=WKFX;=j_Af2
+InjjUeT[0:T3jhldgFU[cQ1
+R2
+R0
+R21
+R60
+R61
+L0 573
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
+vfifo_buffer_single_clock_fifo
+R16
+!i10b 1
+!s100 l?APnUI8_=1IUOC<`QGGJ3
+IGEPnV10?S4OAbUYWWh`_d0
+R2
+R0
+R21
+R60
+R61
+L0 512
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
+vfifo_to_packet
+R16
+!i10b 1
+!s100 TbDMFiLf3D=`0Ekh08_[C1
+Il:[G]C0KmY[F[ZMe:mSLP3
+R2
+R0
+R21
+R60
+R61
+L0 697
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
+vfiftyfivenm_adcblock_primitive_wrapper
+R16
+!i10b 1
+!s100 I^:JcO9X^D`ME7KKfVOc83
+ISJ3ES6>TFoV5NM[nSINU]1
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v
+R15
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_primitive_wrapper.v|
+!i113 1
+R5
+R14
+R6
+vfiftyfivenm_adcblock_top_wrapper
+R16
+!i10b 1
+!s100 l9iJ=>VBIF0BGn4;C1LCF0
+IkN`B^Tlh`RV2zS4P[fno:2
+R2
+R0
+R21
+8D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v
+FD:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v
+L0 31
+R3
+r1
+!s85 0
+31
+R18
+!s107 D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|ADC|+incdir+D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules|D:/MSEE/5363/Week2/DE10LiteADC/ADC/synthesis/submodules/fiftyfivenm_adcblock_top_wrapper.v|
+!i113 1
+R5
+R14
+R6
+vpackets_to_fifo
+R16
+!i10b 1
+!s100 ]MF>U8bo@HjJhzaW6aNB[2
+IBd]49lX3Y64RdWFakKBMm3
+R2
+R0
+R21
+R60
+R61
+L0 142
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
+vpackets_to_master
+R16
+!i10b 1
+!s100 m[YiF06PnnS]oE=1iCkXI1
+IDl<`9Sg;P]>f1MZ1b0KSg2
+R2
+R0
+R21
+R60
+R61
+L0 851
+R3
+r1
+!s85 0
+31
+R18
+R63
+R64
+!i113 1
+R5
+R14
+R6
